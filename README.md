@@ -21,5 +21,5 @@ This is an example of an old-school, but still quite useful class of website -- 
 Strating this server is easy. 
 
 * In the docs folder run `python3 -m http.server 1337`
-* Then go to [http://localhost:1337]
+* Then go to [http://localhost:1337](http://localhost:1337) in your browser
 * Server is now running locally -- to "share" (temporarily) look at services like [ngrok](https://canvas.umn.edu/courses/217951/pages/ngrok.com)
